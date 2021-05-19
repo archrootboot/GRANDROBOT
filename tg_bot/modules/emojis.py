@@ -85,7 +85,7 @@ kill_you = [
             "------------------>",    
             "------>;(^。^)ノ",
             "(￣ー￣) DED",
-            "**Target killed successfully"
+            "**Target killed by head shot💥"
 ]
 
 
