@@ -36,13 +36,13 @@ HELP_STRINGS = """
 
 Hello! my name *{}*.
 
-*Main* commands available:
+*Main* commands available:[🤖](https://telegra.ph//file/18af72fe1abdaa4a164ab.jpg)
  - /start: start the bot
  - /help: PM's you this message.
  - /help <module name>: PM's you info about that module.
  - /settings:
    - in PM: will send you your settings for all supported modules.
-   - in a group: will redirect you to pm, with all that chat's settings. this is a bot pic :- https://telegra.ph//file/18af72fe1abdaa4a164ab.jpg
+   - in a group: will redirect you to pm, with all that chat's settings.
 
 
 {}
