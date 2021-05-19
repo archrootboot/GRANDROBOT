@@ -42,14 +42,14 @@ Hello! my name *{}*.
  - /help <module name>: PM's you info about that module.
  - /settings:
    - in PM: will send you your settings for all supported modules.
-   - in a group: will redirect you to pm, with all that chat's settings.
+   - in a group: will redirect you to pm, with all that chat's settings.https://telegra.ph//file/18af72fe1abdaa4a164ab.jpg
 
 
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-TECHNO_IMG = "https://telegra.ph//file/1e287e9abfcaf3e669bdf.jpg"
+TECHNO_IMG = "https://telegra.ph//file/18af72fe1abdaa4a164ab.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
